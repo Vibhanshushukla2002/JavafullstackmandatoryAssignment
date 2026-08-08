@@ -152,7 +152,7 @@ Example:
 Java Full Stack Developer
 
 GitHub:
-https://github.com/Vibhu2002
+https://github.com/Vibhanshushukla2002
 
 ---
 
